@@ -6,7 +6,7 @@
   "dependencies": {
     "braintree-web": "^3.45.0",
     "braintree-web-drop-in-react": "^1.0.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "query-string": "^6.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
