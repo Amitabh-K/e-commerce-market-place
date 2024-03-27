@@ -88,7 +88,7 @@ This template used React, MongoDB, Mongoose ORM, and customized React-Bootstrap 
 ![demo](/client/src/images/wire.png)
 
 
-### ASSIGNMENT CRITERIA
+### SUCCESS CRITERIA
 ✔️ = Done 😊 | ❌ = Not Done 😞 | ❎ = Kinda Done 😑
 #### Setting expectations with your clients
 
